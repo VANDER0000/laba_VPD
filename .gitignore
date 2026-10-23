@@ -1,0 +1,30 @@
+# Исполняемые и объектные файлы C/C++, Rust, assembler (восстанавливаются сборкой)
+*.exe
+*.o
+*.obj
+*.pdb
+
+# Байт-код Java (получается из javac)
+*.class
+
+# Результаты сборки .NET (C#, F#)
+bin/
+obj/
+
+# Результат транспиляции TypeScript
+dist/
+
+# Зависимости Node.js
+node_modules/
+
+# Результат сборки Cargo (Rust), если будет использоваться
+target/
+
+# Кэш байт-кода Python
+__pycache__/
+
+# Временные файлы ОС и редактора
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
