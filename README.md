@@ -3,7 +3,7 @@
 - **ФИО:** Антропов Иван Олегович
 - **Группа:** М3О-109БВ-26
 - **Номер в списке:** 2
-- **Status:** implementations finished, ready for review
+- **Status:** release 1.0.0
 
 ## Цель проекта
 
